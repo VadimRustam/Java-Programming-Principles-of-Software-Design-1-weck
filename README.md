@@ -4,11 +4,11 @@
 
 Я Вам дам ответы на текст который прошел на 100%, так же ресурсы с информацией. Ответы находятся в папке Earthquakes: Sorting Algorithms.\
 Так же я дам источники с информацией.[1]
-### Youtube \
-https://www.youtube.com/live/m2u6lqo8kMg \
-https://www.youtube.com/live/ylcdRcPOblw \
-https://www.youtube.com/live/apmdbEPrup0 \
-https://www.youtube.com/live/YuFEEhdgozs
+### Youtube 
+[Think to make](https://www.youtube.com/live/m2u6lqo8kMg) \
+[LEARNING ACADE](https://www.youtube.com/live/ylcdRcPOblw) \
+[Coursera Help](https://www.youtube.com/live/apmdbEPrup0) \
+[All course Answer](https://www.youtube.com/live/YuFEEhdgozs)
 
 ### RuTube
 https://rutube.ru/video/4a773b4df1bdb29af29a860792013ff7/?utm_source=chatgpt.com
