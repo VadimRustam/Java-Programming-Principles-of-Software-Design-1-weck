@@ -1,6 +1,6 @@
 # Java-Programming-Principles-of-Software-Design-1-weck
 
-### Русский, Russian, Ruso
+### Русский
 
 Я Вам дам ответы на текст который прошел на 100%, так же ресурсы с информацией. Ответы находятся в папке Earthquakes: Sorting Algorithms.\
 Так же я дам источники с информацией.[1]
@@ -19,7 +19,7 @@ Githubs с кодом, файлами. Но ответов нет.[2] \
 ---
 
 
-### English Inglés Английский
+### English
 
 I will give you the answers to the text that passed 100%, as well as resources with information. The answers are in the folder Earthquakes: Sorting Algorithms.\
 I will also give you sources with information.[1]
@@ -27,7 +27,7 @@ I will also give you sources with information.[1]
 Githubs with code, files. But not answer.[2]
 
 
-### Испанский, Spanish, Español
+### Español
 
 Os voy a dar las respuestas del texto que superó el 100%, así como recursos con información. Las respuestas están en la carpeta Terremotos: algoritmos de ordenación.\
 También os daré fuentes con información[1].
