@@ -1,0 +1,14 @@
+You need send it .rar to URL in course, this url
+
+
+http://www.dukelearntoprogram.com/capstone/upload.php
+
+
+
+In module 4 Step Five
+
+Run Your Code Online
+
+To run your code online, upload your zip file at 
+http://www.dukelearntoprogram.com/capstone/upload.php
+ and press ‘Submit Code’. If there were no problems with your file, you should see a page with a link to click to run your program interactively. Clicking this link calls the getItemsToRate() method, so you will see a page with movies to rate. To share your program with others, copy the URL of this page with the list of movies to rate (not the upload page) and send it to whoever you would like to share your program with.
