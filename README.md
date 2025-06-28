@@ -4,10 +4,10 @@
 
 Я Вам дам ответы на текст который прошел на 100%, так же ресурсы с информацией. Ответы находятся в папке Earthquakes: Sorting Algorithms.\
 Так же я дам источники с информацией.[1]
-### Youtube\
-https://www.youtube.com/live/m2u6lqo8kMg\
-https://www.youtube.com/live/ylcdRcPOblw\
-https://www.youtube.com/live/apmdbEPrup0\
+### Youtube \
+https://www.youtube.com/live/m2u6lqo8kMg \
+https://www.youtube.com/live/ylcdRcPOblw \
+https://www.youtube.com/live/apmdbEPrup0 \
 https://www.youtube.com/live/YuFEEhdgozs
 
 ### RuTube
