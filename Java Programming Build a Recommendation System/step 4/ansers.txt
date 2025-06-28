@@ -1,0 +1,13 @@
+1. Rater r: RaterDatabase.getRaters()
+2. RaterDatabase.size()
+3. 13
+4. 4.3784 it is wrong, do not, I the course was said we round to four significant digits
+5. a call
+6. Frozen
+7. Gone Girl
+8. About Time
+9. Star Trek
+10. The Imitation Game
+11. Nightcrawler
+
+

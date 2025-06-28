@@ -1,0 +1,21 @@
+1. public String getID();        
+2. myRatings.put(item,new Rating(item,rating));
+3. for (String id: movies) {
+4. 29
+5. 88
+6. 19
+7. 231
+8. 22
+9. 132
+10. 15
+
+I have just seen 1 - 2 incorrect, idk, try user ChatGPT
+
+Sourse
+https://quizlet.com/680266732/flashcards?funnelUUID=eb37f7f7-d57d-4bd8-9525-3eeaaaa3dcd5
+
+
+
+
+
+
