@@ -14,7 +14,7 @@ https://www.youtube.com/live/YuFEEhdgozs
 https://rutube.ru/video/4a773b4df1bdb29af29a860792013ff7/?utm_source=chatgpt.com
 
 Githubs с кодом, файлами. Но ответов нет.[2]
-[YenKang](https://github.com/YenKang/Java-Programming-Principles-of-Software-Design). \
+\[YenKang](https://github.com/YenKang/Java-Programming-Principles-of-Software-Design). \
 [konstantinkrumin](https://github.com/konstantinkrumin/Java-Programming-Principles-of-Software-Design/tree/master).
 ---
 
